@@ -6,11 +6,11 @@ Esteban basto tapia
 
 ## 📞 Contacto
 - **Email:** estebanbasto6@gmail.com
-- **LinkedIn:** estebanbasto6@gmail.com
+  
 
 ## 🏢 Experiencia Laboral
 ### **sena**_ (2025-actualidad) 
-Analisis y Desarrollo De Software
+aprendiz Analisis y Desarrollo De Software
 ### **Sena** _(2025 - Actualidad)_
 - Poython.
 - Typescript
@@ -18,7 +18,7 @@ Analisis y Desarrollo De Software
 ### **Tecnico de sistemas**_(2023
 - mantenimiento de equipo de computo
 - atencion al cliente
-- 
+  
 
 ## 🎓 Educación
 ### **fundacion villa maria**_(2021)
@@ -26,7 +26,7 @@ Analisis y Desarrollo De Software
 ## 💡 Habilidades
 - **Habilidad trabajo en quipo
 - **Habilidad comunicacion en trabajo de equipo 
-- **Habilidad 
+  
 
 ---
 
