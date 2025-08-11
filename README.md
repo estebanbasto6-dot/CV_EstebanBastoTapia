@@ -1,7 +1,7 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
+## Nombre compreto
 Esteban basto tapia 
 
 ## 📞 Contacto
