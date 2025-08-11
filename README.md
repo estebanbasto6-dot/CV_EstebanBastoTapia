@@ -2,28 +2,31 @@
 # Hoja de Vida
 
 ## Nombre Completo
-**Profesión:** _Tu profesión_
+Esteban basto tapia 
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **Email:** estebanbasto6@gmail.com
+- **LinkedIn:** estebanbasto6@gmail.com
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### **sena**_ (2025-actualidad) 
+Analisis y Desarrollo De Software
+### **Sena** _(2025 - Actualidad)_
+- Poython.
+- Typescript
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **Tecnico de sistemas**_(2023
+- mantenimiento de equipo de computo
+- atencion al cliente
+- 
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **fundacion villa maria**_(2021)
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Habilidad trabajo en quipo
+- **Habilidad comunicacion en trabajo de equipo 
+- **Habilidad 
 
 ---
 
