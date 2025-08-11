@@ -1,8 +1,8 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre compreto
-Esteban basto tapia 
+## Esteban Basto Tapia 
+
 
 ## 📞 Contacto
 - **Email:** estebanbasto6@gmail.com
