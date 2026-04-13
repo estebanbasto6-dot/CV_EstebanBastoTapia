@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Sistema de Reservas</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+<header>
+    <h1>Reservas Latin Burguer</h1>
+</header>
+
+<nav>
+    <a href="#registro">Registro</a>
+    <a href="#login">Login</a>
+    <a href="#Tipo de Evento">Tipo de evento</a>
+    <a href="#Tipo de Menu">Tipo de menu</a>
+    <a href="#Tipo de Decoracion">Tipo de decoracion</a>
+    <a href="#reserva">Crear Reserva</a>
+    <a href="#disponibilidad">Disponibilidad</a>
+</nav>
+
+<main>
+
+    <!-- REGISTRO -->
+    <section id="registro" class="card">
+        <h2>Registrar Usuario</h2>
+        <form>
+            <input type="text" placeholder="Nombre" required><p></p>
+            <input type="text" placeholder="Apellido" required><p></p>
+            <input type="text" placeholder="Dirección" required><p></p>
+            <input type="text" placeholder="Documento" required><p></p>
+            <input type="text" placeholder="Teléfono" required><p></p>
+
+            <select>
+                <option value="">Tipo Usuario</option>
+                <option value="admin">Admin</option><p></p>
+                <option value="cliente">Cliente</option><p></p>
+            </select>
+
+            <button type="submit">Registrar</button>
+        </form>
+    </section>
+
+    <!-- LOGIN -->
+    <section id="login" class="card">
+        <h2>Iniciar Sesión</h2>
+        <form>
+            <input type="text" placeholder="Usuario"><p></p>
+            <input type="password" placeholder="Contraseña"><p></p>
+            <button type="submit">Ingresar</button>
+        </form>
+    </section>
+
+    <!--TIPO DE EVENTO-->
+    <section id="Evento" class="card">
+        <h2>Tipo de Evento</h2>    
+        <form>
+            <select>
+                <option>Seleccionar</option><p></p>
+                <option>Boda</option>
+                <option>Cumpleaños</option>
+                <option>Corporativo</option>
+                <option>Despedida</option>
+                <option>Comunion</option>
+                <option>Bautizo</option>
+                <option>Reunion</option>
+                <option></option>
+            </select>
+        </form>  
+    </section> 
+
+    <!--TIPO DE MENU-->
+    <section id="Menu" class="card">
+        <h2>Tipo de Menu</Menu></h2>
+        <form>
+            <select>
+                <option>Seleccionar</option><p></p>
+                <option>Básico</option>
+                <option>Vegetariano</option>
+            </select>
+        </form>    
+    </section>
+
+    <!--TIPO DE DECORACION-->
+    <section id="Decoracion" class="card">
+        <h2>Tipo de Decoracion</h2>
+        <form>
+            <select>
+                <option>Seleccionar</option>
+                <option>Clásica</option>
+                <option>Especial</option>
+            </select>
+        </form>
+    </section>
+
+
+    <!-- DISPONIBILIDAD -->
+    <section id="disponibilidad" class="card">
+        <h2>Consultar Disponibilidad</h2>
+        <form>
+            <input type="date"><p></p>
+            <input type="time"><p></p>
+            <button type="submit">Consultar</button><p></p>
+        </form>
+    </section>
+
+        <!-- CREAR RESERVA -->
+    <section id="reserva" class="card">
+        <h2>Crear Reserva</h2>
+        <form>
+            <input type="date" required><p></p>
+            <input type="time" required><p></p>
+            <input type="number" placeholder="Número de Personas" required>
+            <button type="submit">Crear Reserva</button>
+        </form>
+    </section>
+
+
+</main>
+
+</body>
+</html>
